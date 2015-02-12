@@ -4,3 +4,4 @@ CS109: Data Science
 
 ## Assignments
 * [Homework 0](http://nbviewer.ipython.org/urls/raw.github.com/jnjcc/mooc/master/cs109/assignments/hw0.ipynb)
+* [Homework 1](http://nbviewer.ipython.org/urls/raw.github.com/jnjcc/mooc/master/cs109/assignments/hw1.ipynb)
